@@ -1,0 +1,14 @@
+{
+  "name": "owm-finder",
+  "version": "1.0.0",
+  "description": "OpenWeatherMap City Names Finder",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Jack 25",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
