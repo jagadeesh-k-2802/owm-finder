@@ -32,13 +32,15 @@ OpenWeatherMap and fetch weather for that particular city using it's ID
    ```
 
 5. Make A Request
+
    ```
    curl http://localhost:2819/?query=San
 
    [
      {
-       id: 1,
-       name: San
-     }
+      "id": 1689969,
+      "name": "San Francisco"
+     },
+     ...
    ]
    ```
