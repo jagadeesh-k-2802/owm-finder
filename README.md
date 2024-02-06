@@ -1,11 +1,11 @@
-# owm-finder
+# OWM Finder 🗺️
 
 Open Weather Map City Finder Using Node.js And Express.
 
 This node application is useful if you want to search for available cities in
 OpenWeatherMap and fetch weather for that particular city using it's ID
 
-## How To Use
+## How To Use ⚙️
 
 1. Clone This Repo
 
